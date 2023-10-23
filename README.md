@@ -19,7 +19,7 @@
 
 -호텔명, 평점, 리뷰텍스트, 리뷰작성일 추출
 
-- 데이터 출처 https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=yanolja_org
+#### 데이터 출처: https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=yanolja_org
 
 # 2. 데이터
 ## 2.1 데이터 소스
