@@ -1,7 +1,7 @@
 #  KOELECTRA를 활용한 호텔예약 리뷰
 
 # 1. 개요
-이번 프로젝트에서는 한국어 자연어 처리 모델인 KOELECTRA를 활용하여 야놀자 리뷰의 긍부정 예측을 하고자 한다.
+이번 프로젝트에서는 한국어 자연어 처리 모델인 KOELECTRA를 활용하여 호텔예약 플랫품 야놀자를 통해 리뷰의 긍부정 예측을 하고자 한다.
 
 ![image](https://user-images.githubusercontent.com/90162819/158767907-6ef1ca4c-c13c-411e-b70f-f98bd8891e29.png)
 
@@ -18,6 +18,8 @@
 -호텔예약플랫폼 이용률 1위 '야놀자' 활용 서울,인천송도의 주요 호텔 11곳에 대한 리뷰데이터(22921개) Crawling 진행
 
 -호텔명, 평점, 리뷰텍스트, 리뷰작성일 추출
+
+- 데이터 출처 https://www.bigdata-culture.kr/bigdata/user/data_market/agency/detail.do?id=yanolja_org
 
 # 2. 데이터
 ## 2.1 데이터 소스
