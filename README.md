@@ -31,8 +31,7 @@
 
 # 3. 재학습 결과
 ## 3.1 개발 환경
- - pycharm, python, torch, pandas, ...
- - 
+ - pycharm, python, torch, pandas
 ## 3.2 KOELECTRA fine-tuning
 ## 3.3 학습 결과 그래프
 
