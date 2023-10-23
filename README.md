@@ -3,7 +3,7 @@
 # 1. 개요
 이번 프로젝트에서는 한국어 자연어 처리 모델인 KOBERT를 활용하여 야놀자 리뷰의 긍부정 예측을 하고자 한다.
 
-https://user-images.githubusercontent.com/90162819/158767907-6ef1ca4c-c13c-411e-b70f-f98bd8891e29.png
+![image](https://user-images.githubusercontent.com/90162819/158767907-6ef1ca4c-c13c-411e-b70f-f98bd8891e29.png)
 
 ## 1.1 문제 정의
 영화 리뷰는 영화 감상에 있어 가장 보편적으로 활용되는 정보의 창구이다.
