@@ -1,4 +1,6 @@
 #  KOELECTRA를 활용한 호텔예약 리뷰
+![image](https://github.com/okj2670/Hotel_Review_Sentiment_Analysis/assets/79899779/a5635eda-4921-45da-a92f-e189d753acc9)
+
 
 # 1. 개요
 이번 프로젝트에서는 한국어 자연어 처리 모델인 KOELECTRA를 활용하여 호텔예약 플랫품 야놀자를 통해 리뷰의 긍부정 예측을 하고자 한다.
